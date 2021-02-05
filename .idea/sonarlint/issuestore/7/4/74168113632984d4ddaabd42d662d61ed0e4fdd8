@@ -1,0 +1,14 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(€üÕ8çÜÏøö.
+T	java:S106:"9Replace this use of System.out or System.err by a logger.(¢İèL8Õ‹³ÿö.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8Õ‹³ÿö.
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(»„÷ùøÿÿÿÿ
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Û×µ÷ö.
+[
+java:S4973'"9Use the "equals" method if value comparison was intended.(¯‰ê“üÿÿÿÿ8Õ‹³ÿö.
+_
+java:S1128"BRemove this unused import 'sun.rmi.server.InactiveGroupException'.(€üÕ8çÜÏøö.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ĞüÔ±8Õ‹³ÿö.
